@@ -1,0 +1,79 @@
+{
+    "words": [
+      {
+        "word": "cat",
+        "hint": "A small domesticated carnivorous mammal.",
+        "difficulty": "easy"
+      },
+      {
+        "word": "tree",
+        "hint": "A woody plant with a single stem or trunk.",
+        "difficulty": "easy"
+      },
+      {
+        "word": "book",
+        "hint": "A written or printed work consisting of pages.",
+        "difficulty": "easy"
+      },
+      {
+        "word": "moon",
+        "hint": "The natural satellite of the Earth.",
+        "difficulty": "easy"
+      },
+      {
+        "word": "apple",
+        "hint": "A fruit that is often red or green.",
+        "difficulty": "easy"
+      },
+      {
+        "word": "river",
+        "hint": "A large natural stream of water flowing in a channel.",
+        "difficulty": "medium"
+      },
+      {
+        "word": "guitar",
+        "hint": "A stringed musical instrument played with fingers or a pick.",
+        "difficulty": "medium"
+      },
+      {
+        "word": "puzzle",
+        "hint": "A game or problem designed to test ingenuity or knowledge.",
+        "difficulty": "medium"
+      },
+      {
+        "word": "planet",
+        "hint": "A celestial body moving in an orbit around a star.",
+        "difficulty": "medium"
+      },
+      {
+        "word": "camera",
+        "hint": "A device used to capture photographs or videos.",
+        "difficulty": "medium"
+      },
+      {
+        "word": "quantum",
+        "hint": "Relating to the smallest discrete quantity of energy.",
+        "difficulty": "hard"
+      },
+      {
+        "word": "algorithm",
+        "hint": "A set of rules for solving a problem in a finite number of steps.",
+        "difficulty": "hard"
+      },
+      {
+        "word": "kaleidoscope",
+        "hint": "A tube containing mirrors and loose, colored objects.",
+        "difficulty": "hard"
+      },
+      {
+        "word": "metamorphosis",
+        "hint": "A transformation, such as a caterpillar becoming a butterfly.",
+        "difficulty": "hard"
+      },
+      {
+        "word": "xylophone",
+        "hint": "A musical instrument with wooden bars struck by mallets.",
+        "difficulty": "hard"
+      }
+    ]
+  }

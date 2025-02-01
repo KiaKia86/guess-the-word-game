@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Word - Neon Theme</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Guess the Word</h1>
+    <div class="difficulty">
+      <label for="difficulty">Select Difficulty:</label>
+      <select id="difficulty">
+        <option value="easy">Easy</option>
+        <option value="medium">Medium</option>
+        <option value="hard">Hard</option>
+      </select>
+    </div>
+    <div class="game">
+      <p id="hint"></p>
+      <input type="text" id="guess-input" placeholder="Enter your guess">
+      <button id="submit-guess">Submit</button>
+      <button id="restart-button">Restart Game</button>
+      <p id="feedback"></p>
+      <p id="attempts"></p>
+      <p id="timer">Time Left: 30s</p>
+      <p id="score">Score: 0</p>
+    </div>
+  </div>
+  <audio id="correct-sound" src="sounds/correct.mp3"></audio>
+  <audio id="wrong-sound" src="sounds/wrong.mp3"></audio>
+  <audio id="timeout-sound" src="sounds/timeout.mp3"></audio>
+  <script src="script.js"></script>
+</body>
+</html>
